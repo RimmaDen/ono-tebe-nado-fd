@@ -1,4 +1,4 @@
-https://github.com/RimmaDen/ono-tebe-nado-fd-2025
+https://github.com/RimmaDen/ono-tebe-nado-fd
 # Проект: Оно тебе надо
 
 * Интро
