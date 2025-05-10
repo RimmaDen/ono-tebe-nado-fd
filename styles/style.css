@@ -39,10 +39,13 @@
   font-size: 18px;
   font-style: normal;
   font-weight: 400;
-  line-height: 24px;
+  line-height: 24px;  
+  color: #000000;
+}
+
+.header__address {
   justify-self: end;
   max-width: 240px;
-  color: #000000;
 }
   
 .cover {
@@ -266,10 +269,6 @@
   grid-template-columns: 1fr 2fr 1fr ;
   align-items: start;
   padding: 180px 50px 82px 50px;
-}
-
-.footer__address {
-  justify-self: start;
 }
 
 .footer__menu-list-item {
